@@ -1,1 +1,7 @@
 name, date, description
+Jiaju Huang
+Jan. 30, 2015
+
+The canvas listen to a mouse click event, when it detected, it moves to the next graph.
+If it is a pentagon or no existing graph, draw a triangle. If it is a triangle, draw a square.
+If it is a square, draw a pentagon.
